@@ -8,7 +8,7 @@ I'm Isaac Hermel, a 19 years old front-end developer and UI/UX Designer based cu
 
 ```
     const isaacHermel = {
-        location: "Gravataí - RS / Brasil",
+        location: "Brasil (Brazil)",
         pronouns: "He" | "Him",
         portfolio: "https://isaachermel.dev.br"
         working: {
