@@ -1,31 +1,32 @@
 ![Github Banner](https://user-images.githubusercontent.com/97918507/188018659-8e65b7d4-3664-4de1-b79e-717e39a7a703.gif)
 
-# Hello 👋🏻
+# Olá 👋🏻
 
-I'm Isaac Hermel, a 19 years old front-end developer and UI/UX Designer based currently in Gravataí - RS / Brasil.
+Olá, sou Isaac Hermel, desenvolvedor front-end brasileiro! Trabalhando atualmente com Blazor e outas tecnologias na criação de uma plataforma de
+gestão, conhecimento e ferramentas internas para a área de sucesso do cliente e seu time responsável.
 
-## A little more about me... 💭
+## Um pouco mais sobre mim 💭
 
 ```
     const isaacHermel = {
         location: "Brasil (Brazil)",
-        pronouns: "He" | "Him",
-        portfolio: "https://isaachermel.dev.br"
+        pronouns: "Ele" | "Dele",
+        portfolio: "https://isaachermel.dev.br" // Needs to be updated... 👀
         working: {
             status: true,
             at: "Umbler",
-            role: ["Front-end Developer", "UX/UI Designer"]
+            role: Desenvolvedor front-end"
         },
-        studying: "UX/UI Design",
+        studying: "",
         curiosities: [
-            "Has fear of bees",
-            "Can Freely displace his left thumb", 
-            "Can type around 140 words per minute 😅"
+            "Tenho medo de abelhas",
+            "Consigo deslocar livremente meu dedão esquerdo", 
+            "Digito cerca de 140 palavras por minuto"
         ],
     }
 ```
 
-## My Skills 😎
+## Minhas habilidades 😎
 
 ```
     const skills = {
@@ -39,26 +40,25 @@ I'm Isaac Hermel, a 19 years old front-end developer and UI/UX Designer based cu
             backEnd: {
                 javaScript && TypeScript: ["Node", "Express"],
             },
-            databases: ["MySQL", "MongoDB"],
+            databases: ["SQL", "MongoDB"],
             design: ["Figma", "Adobe XD", "Canva"],
             others: ["Github", "GitLab", "NPM", "Yarn"],
         }
     }
 ```
 
-## Github Stats 📈
+## Métricas do meu Github 📈
 
-<div>
-<img src="https://github-readme-stats-h3rmel.vercel.app/api?username=H3rmel&show_icons=true&hide=&count_private=true&title_color=14b8a6&text_color=ffffff&icon_color=10b981&bg_color=171717&hide_border=true&show_icons=true" alt="IsaacHermel's GitHub stats" />
-</div>
-<div>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=H3rmel&stroke=ffffff&background=171717&ring=14b8a6&fire=14b8a6&currStreakNum=ffffff&currStreakLabel=14b8a6&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
-</div>
-<div>
-  <img src="https://github-readme-stats-h3rmel.vercel.app/api/top-langs/?username=H3rmel&langs_count=10&title_color=14b8a6&text_color=ffffff&icon_color=10b981&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
+<div style="display: flex; gap: 1rem;">
+    <div>
+        <img src="https://github-readme-stats-h3rmel.vercel.app/api?username=H3rmel&show_icons=true&hide=&count_private=true&title_color=14b8a6&text_color=ffffff&icon_color=10b981&bg_color=171717&hide_border=true&show_icons=true" alt="IsaacHermel's GitHub stats" />
+    </div>
+    <div width="30%">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=H3rmel&stroke=ffffff&background=171717&ring=14b8a6&fire=14b8a6&currStreakNum=ffffff&currStreakLabel=14b8a6&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+    </div>
 </div>
 
-## Contact Me 📞
+## Me chama aí 📞
 
 <div align="left">
   <a href="mailto:isaachermel@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
