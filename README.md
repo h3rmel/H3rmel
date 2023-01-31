@@ -55,7 +55,7 @@ E claro que além disso, faço alguns pequenos projetos para fins de estudo e de
     <div>
         <img src="https://github-readme-stats-h3rmel.vercel.app/api?username=H3rmel&show_icons=true&hide=&count_private=true&title_color=14b8a6&text_color=ffffff&icon_color=10b981&bg_color=171717&hide_border=true&show_icons=true" alt="IsaacHermel's GitHub stats" />
     </div>
-    <div width="30%">
+    <div>
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=H3rmel&stroke=ffffff&background=171717&ring=14b8a6&fire=14b8a6&currStreakNum=ffffff&currStreakLabel=14b8a6&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
     </div>
 </div>
