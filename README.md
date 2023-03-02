@@ -15,7 +15,7 @@ E claro que além disso, faço alguns pequenos projetos para fins de estudo e de
         working: {
             status: true,
             at: "Umbler",
-            role: Desenvolvedor front-end"
+            role: "Desenvolvedor front-end"
         },
         studying: "",
         curiosities: [
