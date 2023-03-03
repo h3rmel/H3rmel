@@ -11,13 +11,13 @@ E claro que além disso, faço alguns pequenos projetos para fins de estudo e de
     const isaacHermel = {
         location: "Brasil (Brazil)",
         pronouns: "Ele" | "Dele",
-        portfolio: "https://isaachermel.dev.br" // Needs to be updated... 👀
+        portfolio: "https://isaachermel.dev.br" // Currently offline 🔴
         working: {
             status: true,
             at: "Umbler",
             role: "Desenvolvedor front-end"
         },
-        studying: "",
+        studying: ["NextJS", "TypeScript"],
         curiosities: [
             "Tenho medo de abelhas",
             "Consigo deslocar livremente meu dedão esquerdo", 
@@ -33,7 +33,7 @@ E claro que além disso, faço alguns pequenos projetos para fins de estudo e de
         languages: ["HTML5", "CSS3", "JavaScript", "TypeScript", "C#"],
         technologies: {
             frontEnd: {
-                css: ["SCSS", "SASS", "Bootstrap", "TailwindCSS"],
+                css: ["SCSS/SASS", "Bootstrap", "TailwindCSS", "CSS Modules"],
                 javaScript && TypeScript: ["React", "Svelte"],
                 csharp: "Blazor",
             },
@@ -42,7 +42,7 @@ E claro que além disso, faço alguns pequenos projetos para fins de estudo e de
             },
             databases: ["SQL", "MongoDB"],
             design: ["Figma", "Adobe XD", "Canva"],
-            others: ["Github", "GitLab", "NPM", "Yarn"],
+            others: ["Github", "GitLab", "NPM", "Yarn", "Firebase"],
         }
     }
 ```
