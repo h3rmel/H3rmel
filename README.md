@@ -34,7 +34,7 @@ E claro que além disso, faço alguns pequenos projetos para fins de estudo e de
         technologies: {
             frontEnd: {
                 css: ["SCSS/SASS", "Bootstrap", "TailwindCSS", "CSS Modules"],
-                javaScript && TypeScript: ["React", "Svelte"],
+                javaScript && TypeScript: ["React", "Next", "Svelte"],
                 csharp: "Blazor",
             },
             backEnd: {
