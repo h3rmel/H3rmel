@@ -34,7 +34,7 @@ E claro que além disso, faço alguns pequenos projetos para fins de estudo e de
         technologies: {
             frontEnd: {
                 css: ["SCSS/SASS", "Bootstrap", "TailwindCSS", "CSS Modules"],
-                javaScript && TypeScript: ["React", "Next", "Svelte"],
+                javaScript && TypeScript: ["React", "Next", "Svelte", "ViteJS"],
                 csharp: "Blazor",
             },
             backEnd: {
@@ -51,7 +51,6 @@ E claro que além disso, faço alguns pequenos projetos para fins de estudo e de
 
 <div align="left">
   <a href="mailto:isaachermel@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://api.whatsapp.com/send?phone=5551997099876" arget="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/isaachermel/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/H3rmel" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+    <a href="discordapp.com/users/435950041501401088" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
 </div>
