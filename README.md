@@ -1,9 +1,8 @@
 # `Hello World`
 
-Olá, sou Isaac Hermel, desenvolvedor front-end brasileiro! Trabalho atualmente com Blazor e outras tecnologias na criação de uma plataforma de
-gestão, conhecimento e ferramentas internas para a área de sucesso do cliente e seu time responsável.
+Olá, sou Isaac Hermel, desenvolvedor front-end comprometido com a criação de experiências digitais para o usuário. Com mais de um ano de experiência profissional e quatro anos de experiência prática em desenvolvimento de aplicações, possuo habilidades em JS, TS, React e afins.
 
-E claro que além disso faço alguns projetos de estudo e desenvolvimento pessoal, os quais você pode encontrar aqui em meu perfil do GitHub! 😉
+Atualmente estou fazendo diversos projetos de estudo e desenvolvimento pessoal os quais você pode encontrar aqui, no meu perfil do GitHub, aproveite!
 
 ## Informações
 
