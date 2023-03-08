@@ -4,6 +4,12 @@ Olá, sou Isaac Hermel, desenvolvedor front-end comprometido com a criação de 
 
 Atualmente estou fazendo diversos projetos de estudo e desenvolvimento pessoal os quais você pode encontrar aqui, no meu perfil do GitHub, aproveite!
 
+### Objetivos para 2023
+
+- +500 commits
+- +20 repositórios
+- 1 Projeto completo
+
 ## Informações
 
 ```
