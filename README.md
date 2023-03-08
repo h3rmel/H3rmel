@@ -6,9 +6,9 @@ Atualmente estou fazendo diversos projetos de estudo e desenvolvimento pessoal o
 
 ### Objetivos para 2023
 
-- +500 commits
-- +20 repositórios
-- 1 Projeto completo
+🎯 +500 commits
+🎯 +20 repositórios
+🎯 1 Projeto completo
 
 ## Informações
 
