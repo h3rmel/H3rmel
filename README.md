@@ -20,9 +20,9 @@ Here you can find personal projects that I developed or still developing. If you
 
 ## Contact me
 
-![LinkedIn](https://img.shields.io/badge/-LinkedIn-373b61?style=for-the-badge&logo=linkedin)&nbsp;
-![Gmail](https://img.shields.io/badge/-Gmail-373b61?style=for-the-badge&logo=gmail)&nbsp;
-![Discord](https://img.shields.io/badge/-Discord-373b61?style=for-the-badge&logo=discord)&nbsp;
+<a href="https://linkedin.com/in/isaachermel" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-373b61?style=for-the-badge&logo=linkedin" /></a>&nbsp;
+<a href="mailto:isaachermel@gmail.com"><img src="https://img.shields.io/badge/-Gmail-373b61?style=for-the-badge&logo=gmail" /></a>&nbsp;
+<a href="https://discordapp.com/users/435950041501401088" target="_blank"><img src="https://img.shields.io/badge/-Discord-373b61?style=for-the-badge&logo=discord"/></a>&nbsp;
 
 ## I know...
 
@@ -49,15 +49,18 @@ Here you can find personal projects that I developed or still developing. If you
 ![Canva](https://img.shields.io/badge/-Canva-373b61?style=for-the-badge&logo=canva)&nbsp;
 
 ## I'm improving in...
+
 ![React](https://img.shields.io/badge/-React-373b61?style=for-the-badge&logo=react)&nbsp;
 ![C#](https://img.shields.io/badge/-C%23-373b61?style=for-the-badge&logo=csharp)&nbsp;
 ![Blazor](https://img.shields.io/badge/-Blazor-373b61?style=for-the-badge&logo=blazor)&nbsp;
 
 ## I'm learning...
+
 ![TypeScript](https://img.shields.io/badge/-Typescript-373b61?style=for-the-badge&logo=typescript)&nbsp;
 ![NextJS](https://img.shields.io/badge/-NextJs-373b61?style=for-the-badge&logo=next.js)&nbsp;
 
 ## I want to learn...
+
 ![VueJS](https://img.shields.io/badge/-VueJS-373b61?style=for-the-badge&logo=vue.js)&nbsp;
 ![Svelte](https://img.shields.io/badge/-Svelte-373b61?style=for-the-badge&logo=svelte)&nbsp;
 ![Jest](https://img.shields.io/badge/-Jest-373b61?style=for-the-badge&logo=jest)&nbsp;
