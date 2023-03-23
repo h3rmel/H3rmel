@@ -1,61 +1,63 @@
-# `Hello World`
+# Hello there 👋 I'm Isaac Hermel (aka Hermel).
 
-Olá, sou Isaac Hermel, desenvolvedor front-end comprometido com a criação de experiências digitais para o usuário. Com mais de um ano de experiência profissional e quatro anos de experiência prática em desenvolvimento de aplicações, possuo habilidades em JS, TS, React e afins.
+## I'm a developer, designer, student and self-taught learner
 
-Atualmente estou fazendo diversos projetos de estudo e desenvolvimento pessoal os quais você pode encontrar aqui, no meu perfil do GitHub, aproveite!
+- 🔍 I'm currently learning a lot of things 😅 (but the focus is `NextJS` and `front-end testing`)
+- 🤝 I'm looking to collaborate with other developers and IT related people
+- 🎯 I have some goals for the 2023 year, check it below
+- 🤣 Fun fact: I have fear of bees and can freely displace my left thumb 👍
 
-### Objetivos para 2023
+Talking a little more about me, I'm a developer compromised with the creation of digital experiences for users, having more than 5 years of experience and using tools like `JavaScript`, `React`, `SCSS` and others to build mobile first, responsive and accessible front-end features and applications.
 
-🎯 +500 commits
-🎯 +20 repositórios
-🎯 1 Projeto completo
+Here you can find personal projects that I developed or still developing. If you can, take your time and have a look!
 
-## Informações
+### 2023 Goals
 
-```
-    const isaacHermel = {
-        location: "Brasil (Brazil)",
-        pronouns: "Ele" | "Dele",
-        portfolio: "https://isaachermel.dev.br" // Currently offline 🔴
-        working: {
-            status: true,
-            at: "Umbler",
-            role: "Desenvolvedor front-end"
-        },
-        studying: ["NextJS", "TypeScript"],
-        curiosities: [
-            "Tenho medo de abelhas",
-            "Consigo deslocar livremente meu dedão esquerdo", 
-            "Digito cerca de 140 palavras por minuto"
-        ],
-    }
-```
+- [ ] 🎯 +500 commits
+- [ ] 🎯 +20 repositórios
+- [ ] 🎯 Create my portfoliO
+- [ ] 🎯 Create a CSS Framework
 
-## Habilidades
+## Contact me
 
-```
-    const skills = {
-        languages: ["HTML5", "CSS3", "JavaScript", "TypeScript", "C#"],
-        technologies: {
-            frontEnd: {
-                css: ["SCSS/SASS", "Bootstrap", "TailwindCSS", "CSS Modules"],
-                javaScript && TypeScript: ["React", "Next", "Svelte", "ViteJS"],
-                csharp: "Blazor",
-            },
-            backEnd: {
-                javaScript && TypeScript: ["Node", "Express"],
-            },
-            databases: ["SQL", "MongoDB"],
-            design: ["Figma", "Adobe XD", "Canva"],
-            others: ["Github", "GitLab", "NPM", "Yarn", "Firebase"],
-        }
-    }
-```
+![LinkedIn](https://img.shields.io/badge/-LinkedIn-373b61?style=for-the-badge&logo=linkedin)&nbsp;
+![Gmail](https://img.shields.io/badge/-Gmail-373b61?style=for-the-badge&logo=gmail)&nbsp;
+![Discord](https://img.shields.io/badge/-Discord-373b61?style=for-the-badge&logo=discord)&nbsp;
 
-## Informações para contato
+## I know...
 
-<div align="left">
-  <a href="mailto:isaachermel@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/isaachermel/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-    <a href="https://discordapp.com/users/435950041501401088" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
-</div>
+![HTML5](https://img.shields.io/badge/-HTML-373b61?style=for-the-badge&logo=HTML5)&nbsp;
+![CSS3](https://img.shields.io/badge/-CSS-373b61?style=for-the-badge&logo=CSS3&logoColor=1572B6)&nbsp;
+![SASS](https://img.shields.io/badge/-SASS-373b61?style=for-the-badge&logo=SASS)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-373b61?style=for-the-badge&logo=Bootstrap)&nbsp;
+![TailwindCSS](https://img.shields.io/badge/-Tailwind_CSS-373b61?style=for-the-badge&logo=TailwindCSS)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-373b61?style=for-the-badge&logo=javascript)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-373b61?style=for-the-badge&logo=node.js)&nbsp;
+![ExpressJS](https://img.shields.io/badge/-Express.js-373b61?style=for-the-badge&logo=express)&nbsp;
+![ViteJS](https://img.shields.io/badge/-ViteJS-373b61?style=for-the-badge&logo=vite&logoColor=fff)&nbsp;
+![SQL](https://img.shields.io/badge/-MySQL-373b61?style=for-the-badge&logo=MySql)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-373b61?style=for-the-badge&logo=mongodb)&nbsp;
+![Firebase](https://img.shields.io/badge/-Firebase-373b61?style=for-the-badge&logo=firebase)&nbsp;
+![Git](https://img.shields.io/badge/-Git-373b61?style=for-the-badge&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-373b61?style=for-the-badge&logo=github)&nbsp;
+![GitLab](https://img.shields.io/badge/-GitLab-373b61?style=for-the-badge&logo=gitlab)&nbsp;
+![NPM](https://img.shields.io/badge/-NPM-373b61?style=for-the-badge&logo=npm)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-373b61?style=for-the-badge&logo=markdown)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-373b61?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Figma](https://img.shields.io/badge/-Figma-373b61?style=for-the-badge&logo=figma)&nbsp;
+![AdobeXD](https://img.shields.io/badge/-AdobeXD-373b61?style=for-the-badge&logo=adobexd)&nbsp;
+![Canva](https://img.shields.io/badge/-Canva-373b61?style=for-the-badge&logo=canva)&nbsp;
+
+## I'm improving in...
+![React](https://img.shields.io/badge/-React-373b61?style=for-the-badge&logo=react)&nbsp;
+![C#](https://img.shields.io/badge/-C%23-373b61?style=for-the-badge&logo=csharp)&nbsp;
+![Blazor](https://img.shields.io/badge/-Blazor-373b61?style=for-the-badge&logo=blazor)&nbsp;
+
+## I'm learning...
+![TypeScript](https://img.shields.io/badge/-Typescript-373b61?style=for-the-badge&logo=typescript)&nbsp;
+![NextJS](https://img.shields.io/badge/-NextJs-373b61?style=for-the-badge&logo=next.js)&nbsp;
+
+## I want to learn...
+![VueJS](https://img.shields.io/badge/-VueJS-373b61?style=for-the-badge&logo=vue.js)&nbsp;
+![Svelte](https://img.shields.io/badge/-Svelte-373b61?style=for-the-badge&logo=svelte)&nbsp;
+![Jest](https://img.shields.io/badge/-Jest-373b61?style=for-the-badge&logo=jest)&nbsp;
