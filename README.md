@@ -15,7 +15,7 @@ Here you can find personal projects that I developed or still developing. If you
 
 - [ ] 🎯 +500 commits
 - [ ] 🎯 +20 repositórios
-- [ ] 🎯 Create my portfoliO
+- [ ] 🎯 Create my portfolio
 - [ ] 🎯 Create a CSS Framework
 
 ## Contact me
