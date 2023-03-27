@@ -7,7 +7,7 @@
 - 🎯 I have some goals for the 2023 year, check it below
 - 🤣 Fun fact: I have fear of bees and can freely displace my left thumb 👍
 
-Talking a little more about me, I'm a developer compromised with the creation of digital experiences for users, having more than 5 years of experience and using tools like `JavaScript`, `React`, `SCSS` and others to build mobile first, responsive and accessible front-end features and applications.
+Talking a little more about me, I'm a developer compromised with the creation of digital experiences for users, having more than 5 years of experience and using tools like `JavaScript`, `React`, `NodeJS`, `TailwindCSS` and others to build mobile first, responsive and accessible front-end features and applications.
 
 Here you can find personal projects that I developed or still developing. If you can, take your time and have a look!
 
