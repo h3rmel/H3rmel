@@ -2,7 +2,7 @@
 
 ## I'm a developer, designer, student and self-taught learner
 
-- 🔍 I'm currently learning a lot of things 😅 (but the focus is `NextJS` and `front-end testing`)
+- 🔍 I'm currently learning a lot of things 😅 (but the focus is `NextJS`)
 - 🤝 I'm looking to collaborate with other developers and IT related people
 - 🎯 I have some goals for the 2023 year, check it below
 - 🤣 Fun fact: I have fear of bees and can freely displace my left thumb 👍
