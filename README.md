@@ -32,6 +32,7 @@ Here you can find some cool stuff that I developed or still developing. Take a l
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-373b61?style=for-the-badge&logo=Bootstrap)&nbsp;
 ![TailwindCSS](https://img.shields.io/badge/-Tailwind_CSS-373b61?style=for-the-badge&logo=TailwindCSS)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-373b61?style=for-the-badge&logo=javascript)&nbsp;
+![React](https://img.shields.io/badge/-React-373b61?style=for-the-badge&logo=react)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-373b61?style=for-the-badge&logo=node.js)&nbsp;
 ![ExpressJS](https://img.shields.io/badge/-Express.js-373b61?style=for-the-badge&logo=express)&nbsp;
 ![ViteJS](https://img.shields.io/badge/-ViteJS-373b61?style=for-the-badge&logo=vite&logoColor=fff)&nbsp;
@@ -50,13 +51,10 @@ Here you can find some cool stuff that I developed or still developing. Take a l
 
 ## I'm improving in...
 
-![React](https://img.shields.io/badge/-React-373b61?style=for-the-badge&logo=react)&nbsp;
-![C#](https://img.shields.io/badge/-C%23-373b61?style=for-the-badge&logo=csharp)&nbsp;
-![Blazor](https://img.shields.io/badge/-Blazor-373b61?style=for-the-badge&logo=blazor)&nbsp;
+![TypeScript](https://img.shields.io/badge/-Typescript-373b61?style=for-the-badge&logo=typescript)&nbsp;
 
 ## I'm learning...
 
-![TypeScript](https://img.shields.io/badge/-Typescript-373b61?style=for-the-badge&logo=typescript)&nbsp;
 ![NextJS](https://img.shields.io/badge/-NextJs-373b61?style=for-the-badge&logo=next.js)&nbsp;
 
 ## I want to learn...
