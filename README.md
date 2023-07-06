@@ -14,7 +14,7 @@ Here you can find some cool stuff that I developed or still developing. Take a l
 ### 2023 Goals
 
 - [ ] 🎯 +500 commits
-- [ ] 🎯 +20 repositórios
+- [ ] 🎯 +20 repositories
 - [ ] 🎯 Create my portfolio
 - [ ] 🎯 Create a CSS Framework
 
