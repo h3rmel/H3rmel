@@ -59,9 +59,9 @@ Here you can find some cool stuff that I developed or still developing. Take a l
 ## I'm learning...
 
 ![NextJS](https://img.shields.io/badge/-NextJs-373b61?style=for-the-badge&logo=next.js)&nbsp;
+![VueJS](https://img.shields.io/badge/-VueJS-373b61?style=for-the-badge&logo=vue.js)&nbsp;
+![Jest](https://img.shields.io/badge/-Jest-373b61?style=for-the-badge&logo=jest)&nbsp;
 
 ## I want to learn...
 
-![VueJS](https://img.shields.io/badge/-VueJS-373b61?style=for-the-badge&logo=vue.js)&nbsp;
 ![Svelte](https://img.shields.io/badge/-Svelte-373b61?style=for-the-badge&logo=svelte)&nbsp;
-![Jest](https://img.shields.io/badge/-Jest-373b61?style=for-the-badge&logo=jest)&nbsp;
