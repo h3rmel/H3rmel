@@ -51,6 +51,7 @@ Here you can find some cool stuff that I developed or still developing. Take a l
 ![Figma](https://img.shields.io/badge/-Figma-373b61?style=for-the-badge&logo=figma)&nbsp;
 ![AdobeXD](https://img.shields.io/badge/-AdobeXD-373b61?style=for-the-badge&logo=adobexd)&nbsp;
 ![Canva](https://img.shields.io/badge/-Canva-373b61?style=for-the-badge&logo=canva)&nbsp;
+![NextJS](https://img.shields.io/badge/-NextJs-373b61?style=for-the-badge&logo=next.js)&nbsp;
 
 ## I'm improving in...
 
@@ -58,10 +59,9 @@ Here you can find some cool stuff that I developed or still developing. Take a l
 
 ## I'm learning...
 
-![NextJS](https://img.shields.io/badge/-NextJs-373b61?style=for-the-badge&logo=next.js)&nbsp;
-![VueJS](https://img.shields.io/badge/-VueJS-373b61?style=for-the-badge&logo=vue.js)&nbsp;
+![NestJS](https://img.shields.io/badge/-NestJS-373b61?style=for-the-badge&logo=nestjs)&nbsp;
 ![Jest](https://img.shields.io/badge/-Jest-373b61?style=for-the-badge&logo=jest)&nbsp;
 
 ## I want to learn...
-
+![VueJS](https://img.shields.io/badge/-VueJS-373b61?style=for-the-badge&logo=vue.js)&nbsp;
 ![Svelte](https://img.shields.io/badge/-Svelte-373b61?style=for-the-badge&logo=svelte)&nbsp;
