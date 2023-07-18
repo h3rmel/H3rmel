@@ -52,6 +52,9 @@ Here you can find some cool stuff that I developed or still developing. Take a l
 ![AdobeXD](https://img.shields.io/badge/-AdobeXD-373b61?style=for-the-badge&logo=adobexd)&nbsp;
 ![Canva](https://img.shields.io/badge/-Canva-373b61?style=for-the-badge&logo=canva)&nbsp;
 ![NextJS](https://img.shields.io/badge/-NextJs-373b61?style=for-the-badge&logo=next.js)&nbsp;
+![Trello](https://img.shields.io/badge/-Trello-373b61?style=for-the-badge&logo=trello)&nbsp;
+![ClickUp](https://img.shields.io/badge/-ClickUp-373b61?style=for-the-badge&logo=clickup)&nbsp;
+![Postman](https://img.shields.io/badge/-Postman-373b61?style=for-the-badge&logo=postman)&nbsp;
 
 ## I'm improving in...
 
