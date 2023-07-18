@@ -2,12 +2,12 @@
 
 ## I'm a developer, designer, student and self-taught learner
 
-- 🔍 I'm currently learning a lot of things 😅 (but the focus is `NextJS`)
+- 🔍 I'm currently learning a lot of things 😅 (but the focus is `Unit Tests (Jest)`)
 - 🤝 I'm looking to collaborate with other developers and IT related people
 - 🎯 I have some goals for the 2023 year, check it below
 - 🤣 Fun fact: I have fear of bees and can freely displace my left thumb 👍
 
-Talking a little more about me, I'm a developer compromised with the creation of digital experiences for users, having more than 2 years of work and 5 of practical experience using tools like `TypeScript`, `React`, `NodeJS`, `TailwindCSS` and others to build mobile first, responsive and accessible front-end features and applications.
+Talking a little more about me, I'm a developer compromised with the creation of digital experiences for users, having more than 2 years of work and 5 of practical experience using tools like `TypeScript`, `React`, `NodeJS`, `C#` and others to build mobile first, responsive and accessible front-end features and applications.
 
 Here you can find some cool stuff that I developed or still developing. Take a look!
 
@@ -59,9 +59,9 @@ Here you can find some cool stuff that I developed or still developing. Take a l
 
 ## I'm learning...
 
-![NestJS](https://img.shields.io/badge/-NestJS-373b61?style=for-the-badge&logo=nestjs)&nbsp;
 ![Jest](https://img.shields.io/badge/-Jest-373b61?style=for-the-badge&logo=jest)&nbsp;
 
 ## I want to learn...
+![NestJS](https://img.shields.io/badge/-NestJS-373b61?style=for-the-badge&logo=nestjs)&nbsp;
 ![VueJS](https://img.shields.io/badge/-VueJS-373b61?style=for-the-badge&logo=vue.js)&nbsp;
 ![Svelte](https://img.shields.io/badge/-Svelte-373b61?style=for-the-badge&logo=svelte)&nbsp;
