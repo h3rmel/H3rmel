@@ -34,6 +34,7 @@ Here you can find some cool stuff that I developed or still developing. Take a l
 ![Gulp](https://img.shields.io/badge/-Gulp-373b61?style=for-the-badge&logo=gulp)&nbsp;
 ![Babel](https://img.shields.io/badge/-Babel-373b61?style=for-the-badge&logo=babel)&nbsp;
 ![React](https://img.shields.io/badge/-React-373b61?style=for-the-badge&logo=react)&nbsp;
+![Svelte](https://img.shields.io/badge/-Svelte-373b61?style=for-the-badge&logo=svelte)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-373b61?style=for-the-badge&logo=node.js)&nbsp;
 ![ExpressJS](https://img.shields.io/badge/-Express.js-373b61?style=for-the-badge&logo=express)&nbsp;
 ![ViteJS](https://img.shields.io/badge/-ViteJS-373b61?style=for-the-badge&logo=vite&logoColor=fff)&nbsp;
@@ -65,4 +66,4 @@ Here you can find some cool stuff that I developed or still developing. Take a l
 ## I want to learn...
 ![NestJS](https://img.shields.io/badge/-NestJS-373b61?style=for-the-badge&logo=nestjs)&nbsp;
 ![VueJS](https://img.shields.io/badge/-VueJS-373b61?style=for-the-badge&logo=vue.js)&nbsp;
-![Svelte](https://img.shields.io/badge/-Svelte-373b61?style=for-the-badge&logo=svelte)&nbsp;
+![Angular](https://img.shields.io/badge/-Angular-373b61?style=for-the-badge&logo=angular)&nbsp;
