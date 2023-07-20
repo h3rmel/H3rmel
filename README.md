@@ -61,7 +61,7 @@ Here you can find some cool stuff that I developed or still developing. Take a l
 
 ## I'm learning...
 
-![Jest](https://img.shields.io/badge/-Jest-373b61?style=for-the-badge&logo=jest)&nbsp;
+![Cypress](https://img.shields.io/badge/-Cypress-373b61?style=for-the-badge&logo=cypress)&nbsp;
 
 ## I want to learn...
 ![NestJS](https://img.shields.io/badge/-NestJS-373b61?style=for-the-badge&logo=nestjs)&nbsp;
