@@ -61,9 +61,9 @@ Here you can find some cool stuff that I developed or still developing. Take a l
 
 ## I'm learning...
 
-![Cypress](https://img.shields.io/badge/-Cypress-373b61?style=for-the-badge&logo=cypress)&nbsp;
+![VueJS](https://img.shields.io/badge/-VueJS-373b61?style=for-the-badge&logo=vue.js)&nbsp;
 
 ## I want to learn...
 ![NestJS](https://img.shields.io/badge/-NestJS-373b61?style=for-the-badge&logo=nestjs)&nbsp;
-![VueJS](https://img.shields.io/badge/-VueJS-373b61?style=for-the-badge&logo=vue.js)&nbsp;
+![Cypress](https://img.shields.io/badge/-Cypress-373b61?style=for-the-badge&logo=cypress)&nbsp;
 ![Angular](https://img.shields.io/badge/-Angular-373b61?style=for-the-badge&logo=angular)&nbsp;
