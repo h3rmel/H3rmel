@@ -50,7 +50,6 @@ Here you can find some cool stuff that I developed or still developing. Take a l
 ![Figma](https://img.shields.io/badge/-Figma-373b61?style=for-the-badge&logo=figma)&nbsp;
 ![AdobeXD](https://img.shields.io/badge/-AdobeXD-373b61?style=for-the-badge&logo=adobexd)&nbsp;
 ![Canva](https://img.shields.io/badge/-Canva-373b61?style=for-the-badge&logo=canva)&nbsp;
-![NextJS](https://img.shields.io/badge/-NextJs-373b61?style=for-the-badge&logo=next.js)&nbsp;
 ![Trello](https://img.shields.io/badge/-Trello-373b61?style=for-the-badge&logo=trello)&nbsp;
 ![ClickUp](https://img.shields.io/badge/-ClickUp-373b61?style=for-the-badge&logo=clickup)&nbsp;
 ![Postman](https://img.shields.io/badge/-Postman-373b61?style=for-the-badge&logo=postman)&nbsp;
@@ -60,10 +59,10 @@ Here you can find some cool stuff that I developed or still developing. Take a l
 ![TypeScript](https://img.shields.io/badge/-Typescript-373b61?style=for-the-badge&logo=typescript)&nbsp;
 
 ## I'm learning...
-
-![VueJS](https://img.shields.io/badge/-VueJS-373b61?style=for-the-badge&logo=vue.js)&nbsp;
+![NextJS](https://img.shields.io/badge/-NextJs-373b61?style=for-the-badge&logo=next.js)&nbsp;
 
 ## I want to learn...
+![VueJS](https://img.shields.io/badge/-VueJS-373b61?style=for-the-badge&logo=vue.js)&nbsp;
 ![NestJS](https://img.shields.io/badge/-NestJS-373b61?style=for-the-badge&logo=nestjs)&nbsp;
 ![Cypress](https://img.shields.io/badge/-Cypress-373b61?style=for-the-badge&logo=cypress)&nbsp;
 ![Angular](https://img.shields.io/badge/-Angular-373b61?style=for-the-badge&logo=angular)&nbsp;
