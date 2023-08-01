@@ -33,7 +33,6 @@
       </li>
       <li>
         <a href="https://www.linkedin.com/in/isaachermel" target="_blank">LinkedIn</a>
-        [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
       </li>
     </ul>
   </li>
