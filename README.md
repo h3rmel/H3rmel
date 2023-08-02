@@ -1,5 +1,8 @@
 <h1 align="left">E aí 👋 me chamo Isaac Hermel</h1>
 
+<!--
+  Se você quiser replicar a funcionalidade de trocar de idioma, basta criar um novo README na raíz do repositório e linkar ele no README principal.
+-->
 <table align="right">
   <tr>
     <td>
