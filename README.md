@@ -17,7 +17,7 @@
   </tr>
 </table>
 
-<p width="75%">
+<p>
   Sou um programador, entusiasta de teclados, gamer, apreciador de Modern Family e entre outros. 
 </p>
 
@@ -29,7 +29,7 @@
     Tenho um dog chamado Lupin, medo de abelhas e consigo deslocar meu dedão esquerdo.
   </li>
   <li>
-    Jogo de tudo, mas Minecraft, Rainbow Six e Watch Dogs 2 tem um espaço reservado no meu coração.
+    Jogo de tudo, mas Minecraft, R6 e Watch Dogs 2 tem um espaço reservado no meu coração.
   </li>
 </ul>
 
@@ -81,5 +81,5 @@
 - [ ] 🎯 Criar meu portfolio 
 - [ ] 🎯 Criar minha própria framework CSS 
 - [ ] 🎯 Estar em um time/squad nomeado de "Dedo no C# e gritaria"
-
+- [ ] 🎯 O GitHub adicionar `scroll-behavior: smooth;` no seu CSS
 
