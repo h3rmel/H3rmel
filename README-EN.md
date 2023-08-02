@@ -35,8 +35,8 @@
 
 <h2>Contact</h2>
 
-<a href="https://linkedin.com/in/isaachermel" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-373b61?style=for-the-badge&logo=linkedin" /></a>&nbsp;
-<a href="mailto:isaachermel@gmail.com"><img src="https://img.shields.io/badge/-Gmail-373b61?style=for-the-badge&logo=gmail" /></a>&nbsp;
+<a href="https://linkedin.com/in/isaachermel" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
+<a href="mailto:isaachermel@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;
 
 <h2>Skills</h2>
 
