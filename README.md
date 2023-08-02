@@ -79,7 +79,6 @@
 <h2>Objetivos</h2>
 
 - [ ] 🎯 Criar meu portfolio 
-- [ ] 🎯 Criar minha própria framework CSS 
-- [ ] 🎯 Estar em um time/squad nomeado de "Dedo no C# e gritaria"
+- [ ] 🎯 Criar minha própria framework CSS
 - [ ] 🎯 O GitHub adicionar `scroll-behavior: smooth;` no seu CSS
 
