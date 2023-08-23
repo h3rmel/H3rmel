@@ -137,3 +137,6 @@
 - [ ] 🎯 Criar minha própria framework CSS
 - [ ] 🎯 O GitHub adicionar `scroll-behavior: smooth;` no seu CSS
 
+<h2>Stats 📊</h2>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=h3rmel&layout=compact&theme=radical)
