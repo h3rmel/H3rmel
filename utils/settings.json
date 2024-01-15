@@ -35,7 +35,7 @@
   "editor.fontWeight": "400",
   "editor.fontLigatures": true,
   "editor.fontSize": 14,
-  "editor.lineHeight": 1.6,
+  "editor.lineHeight": 1.8,
   "editor.rulers": [80, 120],
   "editor.letterSpacing": 0.25,
   "editor.cursorStyle": "block",
