@@ -63,6 +63,7 @@
   "apc.stylesheet": {
     ".title-label > h2": "display: none",
     ".editor-actions": "display: none",
+    ".tabs-container": "margin-block: 4px 2px",
     ".tab": "border-radius: 8px 8px 0 0",
     ".pane-body": "padding: 8px",
     ".scm-view .scm-editor": "border: none;",
@@ -75,6 +76,12 @@
     ".monaco-icon-label": "align-items: center",
     ".monaco-button-dropdown>.monaco-button.monaco-text-button": "border-radius: 0; padding:",
     ".monaco-count-badge": "display: flex; align-items: center",
+    ".monaco-action-bar .action-item .codicon": "justify-content: center; padding: 2px !important;",
+    ".monaco-workbench .part.editor>.content .editor-group-container>.title .tabs-container>.tab": "padding-left: 9px",
+    ".extension-list-item .monaco-action-bar>.actions-container>.action-item.action-dropdown-item.empty>.extension-action": "padding: 2px 4px !important; border-radius: 6px; margin-right: 0px; line-height: 14px !important",
+    ".extension-editor>.header>.details>.actions-status-container>.monaco-action-bar>.actions-container>.action-item>.extension-action": "line-height: 16px; padding: 2px 4px !important;",
+    ".extension-editor>.header>.details>.actions-status-container>.monaco-action-bar>.actions-container>.action-item.action-dropdown-item>.action-dropdown-item-separator": "height: 20px",
+    ".extension-editor>.header>.details>.actions-status-container>.monaco-action-bar>.actions-container>.action-item.action-dropdown-item>.monaco-dropdown .extension-action.action-dropdown": "line-height: 16px"
   },
   "apc.header": {
     "height": 36
