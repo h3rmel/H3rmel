@@ -1,96 +1,103 @@
 {
-    // ================
-    // VSCode Settings
-    // By Isaac Hermel (a.k.a H3rmel)
-    // ================
-    // Window
-    "window.commandCenter": false,
-    "window.zoomLevel": 1,
-    // Workbench
-    "symbols.hidesExplorerArrows": false,
-    "workbench.iconTheme": "symbols",
-    "workbench.colorTheme": "Min Dark",
-    "workbench.list.smoothScrolling": true,
-    "workbench.tree.indent": 16,
-    "workbench.startupEditor": "newUntitledFile",
-    "workbench.editor.labelFormat": "short",
-    "workbench.layoutControl.enabled": false,
-    // Explorer
-    "explorer.fileNesting.enabled": true,
-    "explorer.fileNesting.expand": true,
-    "explorer.fileNesting.patterns": {
-      "*.ts": "${capture}.spec.ts, ${capture}.test.ts",
-      "*.tsx": "${capture}.spec.tsx, ${capture}.test.tsx",
-      "*.js": "${capture}.spec.js, ${capture}.test.js",
-      "*.jsx": "${capture}.spec.jsx, ${capture}.test.jsx",
-      "package.json": ".eslint*, prettier*, tsconfig*, vite*, pnpm-lock*, package-lock*, bun.lockb*",
-      "tailwind.config.js": "tailwind.config*, postcss.config*",
-      "*.css": "${capture}.min.css",
-      ".env.local": ".env*",
-      ".env": ".env*"
-    },
-    "explorer.compactFolders": false,
-    // Editor
-    "editor.fontFamily": "JetBrainsMono Nerd Font",
-    "editor.fontWeight": "400",
-    "editor.fontLigatures": true,
-    "editor.fontSize": 14,
-    "editor.lineHeight": 1.6,
-    "editor.rulers": [80, 120],
-    "editor.letterSpacing": 0.25,
-    "editor.cursorStyle": "block",
-    "editor.linkedEditing": true,
-    "editor.cursorSmoothCaretAnimation": "on",
-    "editor.smoothScrolling": true,
-    "editor.cursorBlinking": "smooth",
-    "editor.inlayHints.fontSize": 12,
-    "editor.stickyScroll.enabled": true,
-    "editor.minimap.enabled": false,
-    "editor.renderLineHighlight": "gutter",
-    "editor.semanticHighlighting.enabled": false,
-    "editor.scrollbar.horizontal": "hidden",
-    "editor.scrollbar.vertical": "hidden",
-    "editor.defaultFormatter": "esbenp.prettier-vscode",
-    "diffEditor.ignoreTrimWhitespace": false,
-    // Terminal
-    "terminal.integrated.fontSize": 14,
-    "terminal.integrated.fontFamily": "JetBrainsMono Nerd Font",
-    "terminal.integrated.smoothScrolling": true,
-    // Others
-    "breadcrumbs.enabled": false,
-    // APC
-    "apc.font.family": "Inter",
-    "apc.stylesheet": {
-      ".title-label > h2": "display: none",
-      ".editor-actions": "display: none",
-      ".tab": "border-radius: 8px 8px 0 0"
-    },
-    "apc.header": {
-      "height": 36
-    },
-    "apc.listRow": {
-      "height": 24
-    },
-    "apc.electron": {
-      "titleBarStyle": "hiddenInset"
-    },
-    // JavaScript e TypeScript
-    "javascript.updateImportsOnFileMove.enabled": "always",
-    "typescript.updateImportsOnFileMove.enabled": "always",
-    "javascript.preferences.renameMatchingJsxTags": true,
-    "typescript.preferences.renameMatchingJsxTags": true,
-    "javascript.autoClosingTags": true,
-    "typescript.autoClosingTags": true,
-    // Inlay Hints (for TS)
-    "typescript.inlayHints.parameterNames.suppressWhenArgumentMatchesName": true,
-    "typescript.inlayHints.functionLikeReturnTypes.enabled": true,
-    "typescript.inlayHints.enumMemberValues.enabled": true,
-    "typescript.inlayHints.parameterTypes.enabled": true,
-    "typescript.inlayHints.variableTypes.enabled": true,
-    "typescript.inlayHints.propertyDeclarationTypes.enabled": true,
-    "typescript.inlayHints.parameterNames.enabled": "all",
-    //
+  // ================
+  // VSCode Settings
+  // By Isaac Hermel (a.k.a H3rmel)
+  // ================
+  // Window
+  "window.commandCenter": false,
+  "window.zoomLevel": 1,
+  // Workbench
+  "symbols.hidesExplorerArrows": false,
+  "workbench.iconTheme": "symbols",
+  "workbench.colorTheme": "Min Dark",
+  "workbench.list.smoothScrolling": true,
+  "workbench.tree.indent": 16,
+  "workbench.startupEditor": "newUntitledFile",
+  "workbench.editor.labelFormat": "short",
+  "workbench.layoutControl.enabled": false,
+  // Explorer
+  "explorer.fileNesting.enabled": true,
+  "explorer.fileNesting.expand": true,
+  "explorer.fileNesting.patterns": {
+    "*.ts": "${capture}.spec.ts, ${capture}.test.ts",
+    "*.tsx": "${capture}.spec.tsx, ${capture}.test.tsx",
+    "*.js": "${capture}.spec.js, ${capture}.test.js",
+    "*.jsx": "${capture}.spec.jsx, ${capture}.test.jsx",
+    "package.json": ".eslint*, prettier*, tsconfig*, vite*, pnpm-lock*, package-lock*, bun.lockb*",
+    "tailwind.config.js": "tailwind.config*, postcss.config*",
+    "*.css": "${capture}.min.css",
+    ".env.local": ".env*",
+    ".env": ".env*"
+  },
+  "explorer.compactFolders": false,
+  // Editor
+  "editor.fontFamily": "JetBrainsMono Nerd Font",
+  "editor.fontWeight": "400",
+  "editor.fontLigatures": true,
+  "editor.fontSize": 14,
+  "editor.lineHeight": 1.6,
+  "editor.rulers": [80, 120],
+  "editor.letterSpacing": 0.25,
+  "editor.cursorStyle": "block",
+  "editor.linkedEditing": true,
+  "editor.cursorSmoothCaretAnimation": "on",
+  "editor.smoothScrolling": true,
+  "editor.cursorBlinking": "smooth",
+  "editor.inlayHints.fontSize": 12,
+  "editor.stickyScroll.enabled": true,
+  "editor.minimap.enabled": false,
+  "editor.renderLineHighlight": "gutter",
+  "editor.semanticHighlighting.enabled": false,
+  "editor.scrollbar.horizontal": "hidden",
+  "editor.scrollbar.vertical": "hidden",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "diffEditor.ignoreTrimWhitespace": false,
+  // Terminal
+  "terminal.integrated.fontSize": 14,
+  "terminal.integrated.fontFamily": "JetBrainsMono Nerd Font",
+  "terminal.integrated.smoothScrolling": true,
+  // Others
+  "breadcrumbs.enabled": false,
+  // APC
+  "apc.font.family": "Inter",
+  "apc.stylesheet": {
+    ".title-label > h2": "display: none",
+    ".editor-actions": "display: none",
+    ".tab": "border-radius: 8px 8px 0 0",
+    ".pane-body": "padding: 8px",
+    ".scm-view .scm-editor": "border: none;",
+    ".scm-view .scm-input": "padding-left: 0; border-radius: 6px",
+    ".scm-view .button-container": "padding-inline: 0; border-radius: 6px",
+    ".scm-view .monaco-tl-contents>div": "padding-right: 0",
+    ".scm-view .scm-editor-placeholder": "padding: 2px 8px;",
+    ".scm-view .monaco-list-row .resource>.name>.monaco-icon-label:after": "margin-right: 6px",
+    ".monaco-list-row": "border-radius: 6px",
+    ".monaco-icon-label": "align-items: center",
+    ".monaco-button-dropdown>.monaco-button.monaco-text-button": "border-radius: 0; padding:",
+    ".monaco-count-badge": "display: flex; align-items: center",
+  },
+  "apc.header": {
+    "height": 36
+  },
+  "apc.electron": {
+    "titleBarStyle": "hiddenInset"
+  },
+  // JavaScript e TypeScript
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "javascript.preferences.renameMatchingJsxTags": true,
+  "typescript.preferences.renameMatchingJsxTags": true,
+  "javascript.autoClosingTags": true,
+  "typescript.autoClosingTags": true,
+  // Inlay Hints (for TS)
+  "typescript.inlayHints.parameterNames.suppressWhenArgumentMatchesName": true,
+  "typescript.inlayHints.functionLikeReturnTypes.enabled": true,
+  "typescript.inlayHints.enumMemberValues.enabled": true,
+  "typescript.inlayHints.parameterTypes.enabled": true,
+  "typescript.inlayHints.variableTypes.enabled": true,
+  "typescript.inlayHints.propertyDeclarationTypes.enabled": true,
+  "typescript.inlayHints.parameterNames.enabled": "all",
+  //
   "files.autoSave": "onWindowChange",
   "workbench.productIconTheme": "fluent-icons"
-  }
-  
+}
