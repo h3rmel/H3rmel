@@ -5,6 +5,7 @@
   // ================
   // Window
   "window.commandCenter": false,
+  "window.zoomLevel": 1.0,
   // Workbench
   "symbols.hidesExplorerArrows": false,
   "workbench.iconTheme": "symbols",
@@ -114,9 +115,8 @@
   "[css]": {
     "editor.defaultFormatter": "vscode.css-language-features"
   },
-  "window.zoomLevel": 1,
   "svelte.enable-ts-plugin": true,
   "[svelte]": {
     "editor.defaultFormatter": "svelte.svelte-vscode"
-  },
+  }
 }
