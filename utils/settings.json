@@ -5,11 +5,11 @@
   // ================
   // Window
   "window.commandCenter": false,
-  "window.zoomLevel": 1,
   // Workbench
   "symbols.hidesExplorerArrows": false,
   "workbench.iconTheme": "symbols",
   "workbench.colorTheme": "Min Dark",
+  "workbench.productIconTheme": "fluent-icons",
   "workbench.list.smoothScrolling": true,
   "workbench.tree.indent": 16,
   "workbench.startupEditor": "newUntitledFile",
@@ -23,7 +23,9 @@
     "*.tsx": "${capture}.spec.tsx, ${capture}.test.tsx",
     "*.js": "${capture}.spec.js, ${capture}.test.js",
     "*.jsx": "${capture}.spec.jsx, ${capture}.test.jsx",
-    "package.json": ".eslint*, prettier*, tsconfig*, vite*, pnpm-lock*, package-lock*, bun.lockb*",
+    "package.json": "package-lock*, yarn*, pnpm-lock*, bun.lockb*, vite*, webpack*",
+    "tsconfig.json": "tsconfig*",
+    // "package.json": ".eslint*, prettier*, .prettier*, tsconfig*, webpack*, commitlint*, vite*, pnpm-lock*, package-lock*, yarn*, bun.lockb*",
     "tailwind.config.js": "tailwind.config*, postcss.config*",
     "*.css": "${capture}.min.css",
     ".env.local": ".env*",
@@ -35,7 +37,7 @@
   "editor.fontWeight": "400",
   "editor.fontLigatures": true,
   "editor.fontSize": 14,
-  "editor.lineHeight": 1.6,
+  "editor.lineHeight": 1.8,
   "editor.rulers": [80, 120],
   "editor.letterSpacing": 0.25,
   "editor.cursorStyle": "block",
@@ -48,22 +50,20 @@
   "editor.minimap.enabled": false,
   "editor.renderLineHighlight": "gutter",
   "editor.semanticHighlighting.enabled": false,
-  "editor.scrollbar.horizontal": "hidden",
-  "editor.scrollbar.vertical": "hidden",
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "diffEditor.ignoreTrimWhitespace": false,
   // Terminal
   "terminal.integrated.fontSize": 14,
   "terminal.integrated.fontFamily": "JetBrainsMono Nerd Font",
   "terminal.integrated.smoothScrolling": true,
-  // Others
-  "breadcrumbs.enabled": false,
   // APC
   "apc.font.family": "Inter",
   "apc.stylesheet": {
     ".title-label > h2": "display: none",
     ".editor-actions": "display: none",
-    ".tab": "border-radius: 8px 8px 0 0",
+    ".tabs": "height: 36px !important",
+    ".tabs-container": "margin-top: 4px",
+    ".tab": "border-radius: 8px 8px 0 0; height: 32px !important;",
     ".pane-body": "padding: 8px",
     ".scm-view .scm-editor": "border: none;",
     ".scm-view .scm-input": "padding-left: 0; border-radius: 6px",
@@ -75,6 +75,16 @@
     ".monaco-icon-label": "align-items: center",
     ".monaco-button-dropdown>.monaco-button.monaco-text-button": "border-radius: 0; padding:",
     ".monaco-count-badge": "display: flex; align-items: center",
+    ".monaco-workbench .part>.title>.title-actions .action-label": "display: flex; justify-content: center; align-items: center",
+    ".monaco-workbench .part>.title": "height: 36px",
+    ".monaco-workbench .part>.title>.title-actions": "height: 36px",
+    ".monaco-workbench .part.sidebar .title-actions .action-item": "margin-right: 0; margin-top: 4px",
+    ".monaco-workbench .part.editor>.content .editor-group-container>.title .tabs-container>.tab>.tab-actions": "margin-inline: 0 !important",
+    ".monaco-workbench .part.editor>.content .editor-group-container>.title .tabs-container>.tab": "padding-left: 9px",
+    ".extension-list-item .monaco-action-bar>.actions-container>.action-item.action-dropdown-item.empty>.extension-action": "padding: 2px 4px !important; border-radius: 6px; margin-right: 0px; line-height: 14px !important",
+    ".extension-editor>.header>.details>.actions-status-container>.monaco-action-bar>.actions-container>.action-item>.extension-action": "line-height: 16px; padding: 2px 4px !important;",
+    ".extension-editor>.header>.details>.actions-status-container>.monaco-action-bar>.actions-container>.action-item.action-dropdown-item>.action-dropdown-item-separator": "height: 20px",
+    ".extension-editor>.header>.details>.actions-status-container>.monaco-action-bar>.actions-container>.action-item.action-dropdown-item>.monaco-dropdown .extension-action.action-dropdown": "line-height: 16px"
   },
   "apc.header": {
     "height": 36
@@ -95,9 +105,18 @@
   "typescript.inlayHints.enumMemberValues.enabled": true,
   "typescript.inlayHints.parameterTypes.enabled": true,
   "typescript.inlayHints.variableTypes.enabled": true,
+  "typescript.inlayHints.variableTypes.suppressWhenTypeMatchesName": true,
   "typescript.inlayHints.propertyDeclarationTypes.enabled": true,
   "typescript.inlayHints.parameterNames.enabled": "all",
-  //
+  // Others
   "files.autoSave": "onWindowChange",
-  "workbench.productIconTheme": "fluent-icons"
+  "git.confirmSync": false,
+  "[css]": {
+    "editor.defaultFormatter": "vscode.css-language-features"
+  },
+  "window.zoomLevel": 1,
+  "svelte.enable-ts-plugin": true,
+  "[svelte]": {
+    "editor.defaultFormatter": "svelte.svelte-vscode"
+  },
 }
