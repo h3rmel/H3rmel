@@ -5,7 +5,7 @@
   // ================
   // Window
   "window.commandCenter": false,
-  "window.zoomLevel": 1.0,
+  "window.zoomLevel": 1,
   // Workbench
   "symbols.hidesExplorerArrows": false,
   "workbench.iconTheme": "symbols",
@@ -24,11 +24,13 @@
     "*.tsx": "${capture}.spec.tsx, ${capture}.test.tsx",
     "*.js": "${capture}.spec.js, ${capture}.test.js",
     "*.jsx": "${capture}.spec.jsx, ${capture}.test.jsx",
-    "package.json": "package-lock*, yarn*, pnpm-lock*, bun.lockb*, vite*, webpack*",
+    "package.json": "package-lock*, yarn*, pnpm-lock*",
+    "vite.config.*": ".eslint*, prettier*, .prettier*",
     "tsconfig.json": "tsconfig*",
     // "package.json": ".eslint*, prettier*, .prettier*, tsconfig*, webpack*, commitlint*, vite*, pnpm-lock*, package-lock*, yarn*, bun.lockb*",
     "tailwind.config.js": "tailwind.config*, postcss.config*",
     "*.css": "${capture}.min.css",
+    "README.md": "README*",
     ".env.local": ".env*",
     ".env": ".env*"
   },
@@ -57,6 +59,8 @@
   "terminal.integrated.fontSize": 14,
   "terminal.integrated.fontFamily": "JetBrainsMono Nerd Font",
   "terminal.integrated.smoothScrolling": true,
+  // Files
+  "files.autoSave": "onWindowChange",
   // APC
   "apc.font.family": "Inter",
   "apc.stylesheet": {
@@ -101,16 +105,23 @@
   "javascript.autoClosingTags": true,
   "typescript.autoClosingTags": true,
   // Inlay Hints (for TS)
+  // Parameters
+  "typescript.inlayHints.parameterNames.enabled": "all",
   "typescript.inlayHints.parameterNames.suppressWhenArgumentMatchesName": true,
-  "typescript.inlayHints.functionLikeReturnTypes.enabled": true,
-  "typescript.inlayHints.enumMemberValues.enabled": true,
-  "typescript.inlayHints.parameterTypes.enabled": true,
+  // Variables
   "typescript.inlayHints.variableTypes.enabled": true,
   "typescript.inlayHints.variableTypes.suppressWhenTypeMatchesName": true,
+  // Properties
   "typescript.inlayHints.propertyDeclarationTypes.enabled": true,
-  "typescript.inlayHints.parameterNames.enabled": "all",
-  // Others
-  "files.autoSave": "onWindowChange",
+  // Parameters
+  "typescript.inlayHints.parameterTypes.enabled": true,
+  // Returns
+  "typescript.inlayHints.functionLikeReturnTypes.enabled": true,
+  // Enum
+  "typescript.inlayHints.enumMemberValues.enabled": true,
+  // Enable/Unabled
+  "editor.inlayHints.enabled": "offUnlessPressed",
+  // Others Languages & Frameworks
   "git.confirmSync": false,
   "[css]": {
     "editor.defaultFormatter": "vscode.css-language-features"
@@ -118,5 +129,10 @@
   "svelte.enable-ts-plugin": true,
   "[svelte]": {
     "editor.defaultFormatter": "svelte.svelte-vscode"
-  }
+  },
+  "codesnap.containerPadding": "2em",
+  "remote.autoForwardPortsSource": "hybrid",
+  "tabnine.experimentalAutoImports": true,
+  "hediet.vscode-drawio.resizeImages": null,
+  "cSpell.language": "en,pt-BR"
 }
