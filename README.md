@@ -1,33 +1,51 @@
-# H3rmel
+<h1 align="left">H3rmel</h1>
 
-👋 Hi, I'm **Isaac Hermel Reginato**, a Software Developer with experience building scalable solutions in industries of business management, customer service, website hosting and customer success. Having developed applications with more than 100.000 active users.
+<table align="right">
+  <tr>
+    <td>
+      <strong>
+        <a href="README.md">Português</a>
+      </strong>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <strong>
+        <a href="README-EN.md">Inglês</a>
+      </strong>
+    </td>
+  </tr>
+</table>
 
-- 🗺️ I was born and based in Rio Grande do Sul, Brazil
-- ✉️ You can contact me at [isaachermel@gmail.com](isaachermel@gmail.com)
-- 💼 You can interact with me in [my LinkedIn](https://www.linkedin.com/in/isaachermel/)
-- 🤓 I know about TypeScript, NextJS, React, Python, Node and others.
-- 📚 I'm learning about Software Engineering (Design Patterns, Architecture, etc.)
-- 🤝 I'm open to collaborating on projects
-<!-- ☕ You want to [sponsor me]() or [buy me a coffe]() por my projects? -->
+👋 Olá, eu sou **Isaac Hermel Reginato**, um desenvolvedor de software com experiência na construção de soluções escaláveis nas áreas de gestão de negócios, atendimento ao cliente, hospedagem de websites e sucesso do cliente. Já desenvolvi aplicações com mais de 100.000 usuários ativos.
 
-## 📊 GitHub Stats
+- 🗺️ Nasci e moro no Rio Grande do Sul, Brasil
+- ✉️ Você pode entrar em contato comigo pelo email [isaachermel@gmail.com](isaachermel@gmail.com)
+- 💼 Você pode interagir comigo no [meu LinkedIn](https://www.linkedin.com/in/isaachermel/)
+- 🤓 Tenho conhecimento em TypeScript, NextJS, React, Python, Node e outros.
+- 📚 Estou aprendendo sobre Engenharia de Software (Padrões de Design, Arquitetura, etc.)
+- 🤝 Estou aberto a colaborar em projetos
+<!-- ☕ Você quer [me patrocinar]() ou [me pagar um café]() pelos meus projetos? -->
 
-[![h3rmel GitHub stats](https://github-readme-stats.vercel.app/api?username=h3rmel&show_icons=true&theme=dracula&counnt_private=true)](https://github.com/h3rmel)
+## 📊 Estatísticas do GitHub
 
-## 🥸 Curiosities about me
+[![Estatísticas do GitHub de h3rmel](https://github-readme-stats.vercel.app/api?username=h3rmel&show_icons=true&theme=dracula&counnt_private=true)](https://github.com/h3rmel)
 
-- Keyboard enthusiast ⌨️
-- I started using computers with five years old 🖥️
-- I have fear of bees 🐝
-- I can dislocate my left thumb 👍
-- I'm a Sonic fan 🦔
+## 🥸 Curiosidades sobre mim
 
-## 💼 Companies and brands i've worked for
+- Entusiasta de teclados ⌨️
+- Comecei a usar computadores aos cinco anos de idade 🖥️
+- Tenho medo de abelhas 🐝
+- Consigo deslocar meu polegar esquerdo 👍
+- Sou fã do Sonic 🦔
+
+## 💼 Empresas e marcas em que trabalhei
 
 Umbler, WEBGRU, Catency, SenseData, Zenvia, Galen Academy, BCRI, MD Health, NetMD, Oncologia Brasil, FatBurners AT
 
-## 🎯 Goals
+## 🎯 Metas
 
-- [ ] Make GitHub add `scroll-behavior: smooth;` in their CSS
-- [ ] Create my own UI Library
-- [ ] Have a keyboards collection with +5 of them (currently only 1 😑)
+- [ ] Fazer o GitHub adicionar `scroll-behavior: smooth;` em seu CSS
+- [ ] Criar minha própria biblioteca de UI
+- [ ] Ter uma coleção de teclados com mais de 5 deles (atualmente apenas 1 😑)
+
