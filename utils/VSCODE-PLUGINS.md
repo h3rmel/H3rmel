@@ -1,0 +1,27 @@
+My VSCode Plugins for daily development:
+
+- APC Customize UI++
+- Aura Theme
+- Better Comments
+- ESLint
+- Fluent Icons
+- Git History
+- Git Lens
+- GitHub Copilot
+- GitHub Copilot Chat
+- IntelliCode
+- Path Intellisense
+- Prettier
+- Pretty TypeScript Error
+- Symbols
+- Python
+- Pylance
+- Python Debugger
+- TailwindCSS Intellisense
+- Min Theme
+- GitHub Theme
+- Thunder Client
+- Markdown Preview Github Styling
+- vscode-styled-components
+- Docker
+- Live Server
