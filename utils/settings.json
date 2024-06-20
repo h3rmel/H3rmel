@@ -75,6 +75,7 @@
   //
   // Explorer
   //
+
   "explorer.fileNesting.enabled": true,
   "explorer.fileNesting.expand": true,
   "explorer.compactFolders": false,
@@ -140,7 +141,9 @@
 
   // Custom css
   "apc.stylesheet": {
-    ".sidebar > .composite": "height: 12px !important",
+    ".activitybar > .content": "transform: none !important",
+    ".sidebar > .composite": "display: none !important",
+    ".pane-header": "height: 34px !important",
     ".title-label": "display: none !important",
     ".title-actions": "display: none !important",
     ".tabs-and-actions-container > .editor-actions": "display: none !important",
