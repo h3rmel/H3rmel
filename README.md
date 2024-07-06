@@ -17,12 +17,12 @@
   </tr>
 </table>
 
-👋 Olá, eu sou **Isaac Hermel Reginato**, um desenvolvedor de software com experiência na construção de soluções escaláveis nas áreas de gestão de negócios, atendimento ao cliente, hospedagem de websites e sucesso do cliente. Já desenvolvi aplicações com mais de 100.000 usuários ativos.
+👋 Olá, eu sou Isaac **"H3rmel"** Reginato, desenvolvedor com 3 anos de experiência trabalhando em segmentos como gestão empresarial, hospedagem de sites e e-mails, fluxos de E[T]L e sucesso do cliente.
 
 - 🗺️ Nasci e moro no Rio Grande do Sul, Brasil
 - ✉️ Você pode entrar em contato comigo pelo email [isaachermel@gmail.com](isaachermel@gmail.com)
 - 💼 Você pode interagir comigo no [meu LinkedIn](https://www.linkedin.com/in/isaachermel/)
-- 🤓 Tenho conhecimento em TypeScript, NextJS, React, Python, Node e outros.
+- 🤓 Tenho conhecimento em TypeScript, NextJS, React, Node e outros.
 - 📚 Estou aprendendo sobre Engenharia de Software (Padrões de Design, Arquitetura, etc.)
 - 🤝 Estou aberto a colaborar em projetos
 <!-- ☕ Você quer [me patrocinar]() ou [me pagar um café]() pelos meus projetos? -->
@@ -46,6 +46,6 @@ Umbler, WEBGRU, Catency, SenseData, Zenvia, Galen Academy, BCRI, MD Health, NetM
 ## 🎯 Metas
 
 - [ ] Fazer o GitHub adicionar `scroll-behavior: smooth;` em seu CSS
-- [ ] Criar minha própria biblioteca de UI
-- [ ] Ter uma coleção de teclados com mais de 5 deles (atualmente apenas 1 😑)
-
+- [ ] Fazer certificações da W3Schools
+- [ ] Criar 5 projetos bacanas (Atualmente em 1.5, to desenvolvendo outro)
+- [ ] Ter uma coleção de teclados com mais de 5 deles (Atualmente: 2)
