@@ -42,9 +42,3 @@
 ## 💼 Companies and brands i've worked for
 
 Umbler, WEBGRU, Catency, SenseData, Zenvia, Galen Academy, BCRI, MD Health, NetMD, Oncologia Brasil, FatBurners AT
-
-## 🎯 Goals
-
-- [ ] Make GitHub add `scroll-behavior: smooth;` in their CSS
-- [ ] Create my own UI Library
-- [ ] Have a keyboards collection with +5 of them (currently only 1 😑)
