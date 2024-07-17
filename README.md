@@ -42,10 +42,3 @@
 ## 💼 Empresas e marcas em que trabalhei
 
 Umbler, WEBGRU, Catency, SenseData, Zenvia, Galen Academy, BCRI, MD Health, NetMD, Oncologia Brasil, FatBurners AT
-
-## 🎯 Metas
-
-- [ ] Fazer o GitHub adicionar `scroll-behavior: smooth;` em seu CSS
-- [ ] Fazer certificações da W3Schools
-- [ ] Criar 5 projetos bacanas (Atualmente em 1.5, to desenvolvendo outro)
-- [ ] Ter uma coleção de teclados com mais de 5 deles (Atualmente: 2)
