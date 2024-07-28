@@ -1,7 +1,34 @@
 My VSCode Plugins for daily development:
 
 - APC Customize UI++
-- Aura Theme
+- Better Comments
+- Dev Containers
+- Docker
+- ESLint
+- Fluent Icons
+- Git History
+- Git Lens
+- GitHub Copilot
+- GitHub Theme
+- IntelliCode
+- Live Server
+- Markdown Preview Github Styling
+- Min Theme
+- Path Intellisense
+- Prettier
+- Pretty TypeScript Errors
+- Remote - SSH
+- Remote - SSH: Editing Configuratin Files
+- Remote Explorer
+- SQLite Viewer
+- Symbols
+- Tailwind CSS IntelliSense
+- Thunder Client
+- vscode-styled-components
+- WSL
+- Python
+
+<!-- - APC Customize UI++
 - Better Comments
 - ESLint
 - Fluent Icons
@@ -24,4 +51,4 @@ My VSCode Plugins for daily development:
 - Markdown Preview Github Styling
 - vscode-styled-components
 - Docker
-- Live Server
+- Live Server -->

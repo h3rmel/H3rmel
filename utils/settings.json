@@ -6,7 +6,7 @@
   "files.autoSave": "onFocusChange",
 
   // Theme
-  "workbench.colorTheme": "Aura Dark (Soft Text)",
+  "workbench.colorTheme": "GitHub Dark",
   "workbench.iconTheme": "symbols",
   "workbench.productIconTheme": "fluent-icons",
   "symbols.hidesExplorerArrows": false,
@@ -16,25 +16,27 @@
   //
 
   // Family
-  "editor.fontFamily": "Geist Mono",
-  "scm.inputFontFamily": "Geist Mono",
-  "terminal.integrated.fontFamily": "GeistMono Nerd Font",
-  "chat.editor.fontFamily": "Geist Mono",
-  "debug.console.fontFamily": "Geist Mono",
-  "editor.codeLensFontFamily": "Geist Mono",
-  "notebook.output.fontFamily": "Geist Mono",
-  "markdown.preview.fontFamily": "Geist Mono",
-  "editor.inlayHints.fontFamily": "Geist Mono",
+  "editor.fontFamily": "JetBrainsMono Nerd Font Mono",
+  "scm.inputFontFamily": "JetBrainsMono Nerd Font Mono",
+  "terminal.integrated.fontFamily": "JetBrainsMono Nerd Font Mono",
+  "chat.editor.fontFamily": "JetBrainsMono Nerd Font Mono",
+  "debug.console.fontFamily": "JetBrainsMono Nerd Font Mono",
+  "editor.codeLensFontFamily": "JetBrainsMono Nerd Font Mono",
+  "notebook.output.fontFamily": "JetBrainsMono Nerd Font Mono",
+  "markdown.preview.fontFamily": "JetBrainsMono Nerd Font Mono",
+  "editor.inlayHints.fontFamily": "JetBrainsMono Nerd Font Mono",
 
-  // Font (Size)
+  // Font (Size & Weight)
   "editor.fontSize": 14,
   "terminal.integrated.fontSize": 14,
+  "editor.fontWeight": "400",
+  "terminal.integrated.fontWeight": "400",
 
   // Others
   "editor.lineHeight": 1.8,
-  // "editor.rulers": [80, 120],
-  "editor.letterSpacing": 0.5,
+  "editor.letterSpacing": 1,
   "editor.cursorStyle": "block",
+  // "editor.rulers": [80, 120],
 
   //
   // Ui
@@ -81,15 +83,24 @@
   "explorer.compactFolders": false,
   "explorer.fileNesting.patterns": {
     "*.ts": "${capture}.spec.ts, ${capture}.test.ts",
-    "*.tsx": "${capture}.spec.tsx, ${capture}.test.tsx",
     "*.js": "${capture}.spec.js, ${capture}.test.js",
     "*.jsx": "${capture}.spec.jsx, ${capture}.test.jsx",
-    "package.json": "package-lock*, yarn*, pnpm-lock*",
+    "*.tsx": "${capture}.module.css",
     "tsconfig.json": "tsconfig*",
+    "package.json": "package-lock*, yarn*, pnpm-lock*",
+    "next.config*": ".eslint*, .prettier*, .lintstaged*, .commitlint*",
+    "vite.config*": ".eslint*, .prettier*, .lintstaged*, .commitlint*",
+    "tailwind.config*": "postcss*, autoprefixer*",
     "README.md": "${capture}.md",
     "*.css": "${capture}.min.css",
     ".env.local": ".env*",
-    ".env": ".env*"
+    ".env": ".env*",
+    "*.sqlite": "${capture}.${extname}-*",
+    "*.db": "${capture}.${extname}-*",
+    "*.sqlite3": "${capture}.${extname}-*",
+    "*.db3": "${capture}.${extname}-*",
+    "*.sdb": "${capture}.${extname}-*",
+    "*.s3db": "${capture}.${extname}-*"
   },
 
   //
@@ -120,19 +131,20 @@
   //
   // APC
   //
-  "apc.activityBar": {
-    "hideSettings": true,
-    "size": 40
-  },
-  "apc.electron": {
-    "titleBarStyle": "hiddenInset",
-    "trafficLightPosition": {
-      "x": 12,
-      "y": 10
-    }
-  },
-  "apc.font.family": "Geist Mono",
-  "apc.monospace.font.family": "Geist Mono",
+
+  // "apc.activityBar": {
+  //   "hideSettings": true,
+  //   "size": 48
+  // },
+  // "apc.electron": {
+  //   "titleBarStyle": "hiddenInset",
+  //   "trafficLightPosition": {
+  //     "x": 12,
+  //     "y": 10
+  //   }
+  // },
+  "apc.font.family": "JetBrainsMono Nerd Font Mono",
+  "apc.monospace.font.family": "JetBrainsMono Nerd Font Mono",
   "apc.statusBar": {
     "position": "editor-bottom",
     "height": 24,
@@ -141,14 +153,10 @@
 
   // Custom css
   "apc.stylesheet": {
-    ".activitybar > .content": "transform: none !important",
-    ".sidebar > .composite": "display: none !important",
-    ".pane-header": "height: 34px !important",
-    ".title-label": "display: none !important",
-    ".title-actions": "display: none !important",
+    ".sidebar > .composite > .title-actions": "display: none !important",
     ".tabs-and-actions-container > .editor-actions": "display: none !important",
-    ".titlebar-center": "display: none !important",
-    ".titlebar-right": "display: none !important",
-    ".inline-tabs-placeholder": "display: none !important",
-  },
+    "ul.actions-container > li.action-item.menu-entry": "display: none !important",
+    ".monaco-workbench .part.sidebar>.title": "display: none !important",
+    ".monaco-pane-view .split-view-view:first-of-type>.pane>.pane-header": "height: 34px",
+  }
 }
