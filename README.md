@@ -22,22 +22,9 @@
 - 🗺️ Nasci e moro no Rio Grande do Sul, Brasil
 - ✉️ Você pode entrar em contato comigo pelo email [isaachermel@gmail.com](isaachermel@gmail.com)
 - 💼 Você pode interagir comigo no [meu LinkedIn](https://www.linkedin.com/in/isaachermel/)
-- 🤓 Tenho conhecimento em TypeScript, NextJS, React, Node e outros.
-- 📚 Estou aprendendo sobre Engenharia de Software (Padrões de Design, Arquitetura, etc.)
+- 🧠 Tenho proeficiência em TypeScript, NextJS, React, Node, Jest e outras tecnologias deste ecossistema
+- 🧠 Tenho experiência com documentação de código, Clean Code, Programação Funcional, testes unitários e outras boas práticas de desenvolvimento
 - 🤝 Estou aberto a colaborar em projetos
-<!-- ☕ Você quer [me patrocinar]() ou [me pagar um café]() pelos meus projetos? -->
-
-## 📊 Estatísticas do GitHub
-
-[![Estatísticas do GitHub de h3rmel](https://github-readme-stats.vercel.app/api?username=h3rmel&show_icons=true&theme=dracula&counnt_private=true)](https://github.com/h3rmel)
-
-## 🥸 Curiosidades sobre mim
-
-- Entusiasta de teclados ⌨️
-- Comecei a usar computadores aos cinco anos de idade 🖥️
-- Tenho medo de abelhas 🐝
-- Consigo deslocar meu polegar esquerdo 👍
-- Sou fã do Sonic 🦔
 
 ## 💼 Empresas e marcas em que trabalhei
 

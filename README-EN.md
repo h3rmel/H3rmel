@@ -22,22 +22,9 @@
 - 🗺️ I was born and based in Rio Grande do Sul, Brazil
 - ✉️ You can contact me at [isaachermel@gmail.com](isaachermel@gmail.com)
 - 💼 You can interact with me in [my LinkedIn](https://www.linkedin.com/in/isaachermel/)
-- 🤓 I know about TypeScript, NextJS, React, Python, Node and others.
-- 📚 I'm learning about Software Engineering (Design Patterns, Architecture, etc.)
+- 🧠 I have proficiency in TypeScript, NextJS, React, Node, Jest and other technologies in this ecosystem
+- 🗄️ I have experience with code documentation, Clean Code, Functional Programming, unit testing and other good practices in development
 - 🤝 I'm open to collaborating on projects
-<!-- ☕ You want to [sponsor me]() or [buy me a coffe]() por my projects? -->
-
-## 📊 GitHub Stats
-
-[![h3rmel GitHub stats](https://github-readme-stats.vercel.app/api?username=h3rmel&show_icons=true&theme=dracula&counnt_private=true)](https://github.com/h3rmel)
-
-## 🥸 Curiosities about me
-
-- Keyboard enthusiast ⌨️
-- I started using computers with five years old 🖥️
-- I have fear of bees 🐝
-- I can dislocate my left thumb 👍
-- I'm a Sonic fan 🦔
 
 ## 💼 Companies and brands i've worked for
 
