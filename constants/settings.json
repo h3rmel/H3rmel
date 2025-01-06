@@ -1,0 +1,98 @@
+{
+  // Open json editor for settings
+  "workbench.settings.editor": "json",
+  // File Saving
+  "files.autoSave": "onFocusChange",
+  // Theme
+  "workbench.colorTheme": "Min Darkest",
+  "workbench.iconTheme": "symbols",
+  "workbench.productIconTheme": "fluent-icons",
+  //
+  // Font
+  //
+  // Family
+  "editor.fontFamily": "GeistMono Nerd Font",
+  "scm.inputFontFamily": "GeistMono Nerd Font",
+  "terminal.integrated.fontFamily": "GeistMono Nerd Font",
+  "chat.editor.fontFamily": "GeistMono Nerd Font",
+  "debug.console.fontFamily": "GeistMono Nerd Font",
+  "editor.codeLensFontFamily": "GeistMono Nerd Font",
+  "notebook.output.fontFamily": "GeistMono Nerd Font",
+  "markdown.preview.fontFamily": "GeistMono Nerd Font",
+  "editor.inlayHints.fontFamily": "GeistMono Nerd Font",
+  // Font (Size & Weight)
+  "editor.fontSize": 14,
+  "terminal.integrated.fontSize": 14,
+  "editor.fontWeight": "400",
+  "terminal.integrated.fontWeight": "400",
+  // Others
+  "editor.lineHeight": 1.8,
+  "editor.letterSpacing": 1,
+  "editor.cursorStyle": "block",
+
+  //
+  // Ui
+  //
+
+  // Window
+  "window.commandCenter": false,
+  "window.titleBarStyle": "custom",
+  "window.zoomLevel": 0.8,
+
+  // Editor
+  "editor.minimap.enabled": false,
+  "editor.scrollbar.vertical": "auto",
+  "editor.scrollbar.horizontal": "auto",
+  "editor.fontLigatures": true,
+  "editor.linkedEditing": true,
+  "editor.cursorSmoothCaretAnimation": "on",
+  "editor.smoothScrolling": true,
+  "editor.cursorBlinking": "smooth",
+  "editor.inlayHints.fontSize": 12,
+  "editor.stickyScroll.enabled": true,
+  "editor.renderLineHighlight": "gutter",
+  "editor.semanticHighlighting.enabled": false,
+  "editor.tabSize": 2,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "diffEditor.ignoreTrimWhitespace": false,
+
+  // Workbench
+  "workbench.list.smoothScrolling": true,
+  "workbench.tree.indent": 16,
+  "workbench.startupEditor": "none",
+  "workbench.editor.labelFormat": "short",
+  "workbench.layoutControl.enabled": false,
+  "workbench.sideBar.location": "right",
+
+  // Others
+  "terminal.integrated.smoothScrolling": true,
+  "breadcrumbs.enabled": false,
+
+  //
+  // JavaScript & TypeScript
+  //
+
+  // Configs
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "javascript.preferences.renameMatchingJsxTags": true,
+  "typescript.preferences.renameMatchingJsxTags": true,
+  "javascript.autoClosingTags": true,
+  "typescript.autoClosingTags": true,
+
+  // Inlay Hints (for TS)
+  "typescript.inlayHints.parameterNames.enabled": "all",
+  "typescript.inlayHints.parameterNames.suppressWhenArgumentMatchesName": true,
+  "typescript.inlayHints.variableTypes.enabled": true,
+  "typescript.inlayHints.variableTypes.suppressWhenTypeMatchesName": true,
+  "typescript.inlayHints.propertyDeclarationTypes.enabled": true,
+  "typescript.inlayHints.parameterTypes.enabled": true,
+  "typescript.inlayHints.functionLikeReturnTypes.enabled": true,
+  "typescript.inlayHints.enumMemberValues.enabled": true,
+
+  // Enable/Unable
+  "editor.inlayHints.enabled": "offUnlessPressed",
+
+  // Others
+  "symbols.hidesExplorerArrows": false
+}
