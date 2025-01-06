@@ -26,6 +26,6 @@
 - 🧠 Tenho experiência com documentação de código, Clean Code, Programação Funcional, testes unitários e outras boas práticas de desenvolvimento
 - 🤝 Estou aberto a colaborar em projetos
 
-## 💼 Empresas e marcas em que trabalhei
+## 💼 Empresas, marcas e projetos em que trabalhei
 
-Umbler, WEBGRU, Catency, SenseData, Zenvia, Galen Academy, BCRI, MD Health, NetMD, Oncologia Brasil, FatBurners AT
+Umbler, WEBGRU, Catency, SenseData, Zenvia, Galen Academy, BCRI, MD Health, NetMD, Oncologia Brasil, FatBurners AT e MagicUI.
