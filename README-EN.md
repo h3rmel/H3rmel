@@ -1,4 +1,4 @@
-<h1 align="left">H3rmel</h1>
+<h1 align="left">Isaac Hermel Reginato</h1>
 
 <table align="right">
   <tr>
@@ -17,15 +17,20 @@
   </tr>
 </table>
 
-👋 Hi, I'm **Isaac Hermel Reginato**, a software developer with experience building scalable solutions in industries of business management, customer service, website hosting and customer success. Having developed applications with more than 100.000 active users.
+Hello, I'm Isaac and I'm a software developer.
 
-- 🗺️ I was born and based in Rio Grande do Sul, Brazil
-- ✉️ You can contact me at [isaachermel@gmail.com](isaachermel@gmail.com)
-- 💼 You can interact with me in [my LinkedIn](https://www.linkedin.com/in/isaachermel/)
-- 🧠 I have proficiency in TypeScript, NextJS, React, Node, Jest and other technologies in this ecosystem
-- 🗄️ I have experience with code documentation, Clean Code, Functional Programming, unit testing and other good practices in development
+- 🗺️ I was born and live in Rio Grande do Sul, Brazil
+- ✉️ You can contact me via email at [isaachermel@gmail.com](isaachermel@gmail.com)
+- 💼 You can interact with me on [my LinkedIn](https://www.linkedin.com/in/isaachermel/)
+- 💼 I'm open to freelance work and PJ contracts
 - 🤝 I'm open to collaborating on projects
 
-## 💼 Companies, brands and projects i've worked for
+## 🪛 Skills
 
-Umbler, WEBGRU, Catency, SenseData, Zenvia, Galen Academy, BCRI, MD Health, NetMD, Oncologia Brasil, FatBurners AT and MagicUI.
+TypeScript, Next.js, Nest.js, Python, Flask, Vue.js, TDD, BDD, Clean Code, Clean Architecture, SOLID, Jest, Technical Documentation and Technical Research.
+
+Active Listening, Analytical Vision, Empathy and Resilience.
+
+## 💼 Companies, brands and projects I've worked with
+
+Umbler, WEBGRU, Catency, SenseData, Zenvia, Galen Academy, BCRI, MD Health, NetMD, Oncologia Brasil, FatBurners AT, MagicUI and K2L.

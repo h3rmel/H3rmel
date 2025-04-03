@@ -1,4 +1,4 @@
-<h1 align="left">H3rmel</h1>
+<h1 align="left">Isaac Hermel Reginato</h1>
 
 <table align="right">
   <tr>
@@ -17,15 +17,20 @@
   </tr>
 </table>
 
-👋 Olá, eu sou Isaac **"H3rmel"** Reginato, desenvolvedor com 3 anos de experiência trabalhando em segmentos como gestão empresarial, hospedagem de sites e e-mails, fluxos de E[T]L e sucesso do cliente.
+Olá, me chamo Isaac e sou desenvolvedor de software.
 
 - 🗺️ Nasci e moro no Rio Grande do Sul, Brasil
 - ✉️ Você pode entrar em contato comigo pelo email [isaachermel@gmail.com](isaachermel@gmail.com)
 - 💼 Você pode interagir comigo no [meu LinkedIn](https://www.linkedin.com/in/isaachermel/)
-- 🧠 Tenho proeficiência em TypeScript, NextJS, React, Node, Jest e outras tecnologias deste ecossistema
-- 🧠 Tenho experiência com documentação de código, Clean Code, Programação Funcional, testes unitários e outras boas práticas de desenvolvimento
+- 💼 Estou aberto a freelances e contratos PJ
 - 🤝 Estou aberto a colaborar em projetos
+
+## 🪛 Habilidades
+
+TypeScript, Next.js, Nest.js, Python, Flask, Vue.js, TDD, BDD, Clean Code, Clean Architecture, SOLID, Jest, Documentações Técnicas e Pesquisas Técnicas.
+
+Escuta Ativa, Visão análitica, Empatia e Resiliência.
 
 ## 💼 Empresas, marcas e projetos em que trabalhei
 
-Umbler, WEBGRU, Catency, SenseData, Zenvia, Galen Academy, BCRI, MD Health, NetMD, Oncologia Brasil, FatBurners AT e MagicUI.
+Umbler, WEBGRU, Catency, SenseData, Zenvia, Galen Academy, BCRI, MD Health, NetMD, Oncologia Brasil, FatBurners AT, MagicUI e K2L.
