@@ -25,11 +25,13 @@ Olá, me chamo Isaac e sou desenvolvedor de software.
 - 💼 Estou aberto a freelances e contratos PJ
 - 🤝 Estou aberto a colaborar em projetos
 
-## 🪛 Habilidades
+## 🪛 Habilidades e Conhecimentos
 
-TypeScript, Next.js, Nest.js, Python, Flask, Vue.js, TDD, BDD, Clean Code, Clean Architecture, SOLID, Jest, Documentações Técnicas e Pesquisas Técnicas.
+TypeScript, Next.js, Nest.js, Python, Flask, Vue.js, TailwindCSS, SCSS, Docker, Kubernetes, TDD, BDD, Clean Code, Clean Architecture, SOLID, Webpack, Jest, Documentações Técnicas e Pesquisas Técnicas.
 
-Escuta Ativa, Visão análitica, Empatia e Resiliência.
+Escuta Ativa, Visão análitica, Empatia e Resiliência. Experiência em times ágeis que seguiam metodologias Scrum e Kanban.
+
+Experiência e conhecimento em diversos tipos de segmento: Sucesso do Cliente, Fluxos E[T]L, Otimização SEO, Usabilidade, Acessibilidade, E-commerces, Landing Pages, Sites Institucionais, APIs REST e Sistemas CRUD.
 
 ## 💼 Empresas, marcas e projetos em que trabalhei
 
