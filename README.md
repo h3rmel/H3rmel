@@ -31,7 +31,7 @@ TypeScript, Next.js, Nest.js, Python, Flask, Vue.js, TailwindCSS, SCSS, Docker, 
 
 Escuta Ativa, Visão análitica, Empatia e Resiliência. Experiência em times ágeis que seguiam metodologias Scrum e Kanban.
 
-Experiência e conhecimento em diversos tipos de segmento: Sucesso do Cliente, Fluxos E[T]L, Otimização SEO, Usabilidade, Acessibilidade, E-commerces, Landing Pages, Sites Institucionais, APIs REST e Sistemas CRUD.
+Experiência e conhecimento em diversos tipos de segmento: Sucesso do Cliente, Fluxos E[T]L, Otimização SEO, Usabilidade, Acessibilidade, E-commerces, Landing Pages, Sites Institucionais e APIs REST.
 
 ## 💼 Empresas, marcas e projetos em que trabalhei
 
