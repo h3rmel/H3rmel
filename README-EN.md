@@ -26,7 +26,7 @@ Hello, my name is Isaac and I'm a software engineer and front-end specialist.
 - 🤝 I am open to collaborating on projects
 
 ## 🪛 Skills and Knowledge
-TypeScript, Next.js, Nest.js, Python, Flask, Vue.js, TailwindCSS, SCSS, Docker, Kubernetes, TDD, BDD, Clean Code, Clean Architecture, SOLID, Webpack, Jest, Technical Documentation and Technical Research.
+TypeScript, Next.js, Nest.js, Python, Flask, Vue.js, TailwindCSS, SCSS, Docker, Kubernetes, Kafka, TDD, BDD, Clean Code, Clean Architecture, SOLID, SQL, MongoDB, Webpack, Jest, Technical Documentation and Technical Research.
 
 Active Listening, Analytical Vision, Empathy and Resilience. Experience in agile teams that followed Scrum and Kanban methodologies.
 
