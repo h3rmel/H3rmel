@@ -17,7 +17,7 @@
   </tr>
 </table>
 
-Olá, me chamo Isaac e sou desenvolvedor de software e especialista front-end.
+Olá, me chamo Isaac e sou engenheiro de software e especialista front-end.
 
 - 🗺️ Nasci e moro no Rio Grande do Sul, Brasil
 - ✉️ Você pode entrar em contato comigo pelo email [isaachermel@gmail.com](isaachermel@gmail.com)
