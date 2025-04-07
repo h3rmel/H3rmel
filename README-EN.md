@@ -30,7 +30,7 @@ TypeScript, Next.js, Nest.js, Python, Flask, Vue.js, TailwindCSS, SCSS, Docker, 
 
 Active Listening, Analytical Vision, Empathy and Resilience. Experience in agile teams that followed Scrum and Kanban methodologies.
 
-Experience and knowledge in various types of segments: Customer Success, E[T]L Flows, SEO Optimization, Usability, Accessibility, E-commerces, Landing Pages, Institutional Sites, REST APIs and CRUD Systems.
+Experience and knowledge in various types of segments: Customer Success, E[T]L Flows, SEO Optimization, Usability, Accessibility, E-commerces, Landing Pages, Institutional Sites and REST APIs.
 
 ## 💼 Companies, brands and projects I've worked on
 Umbler, WEBGRU, Catency, SenseData, Zenvia, Galen Academy, BCRI, MD Health, NetMD, Oncologia Brasil, FatBurners AT, MagicUI and K2L.
