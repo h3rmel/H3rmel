@@ -1,38 +1,15 @@
-<h1 align="left">Isaac Hermel Reginato</h1>
+## Hi, I'm Isaac Hermel Reginato 👋
 
-<table align="right">
-  <tr>
-    <td>
-      <strong>
-        <a href="README.md">Português</a>
-      </strong>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <strong>
-        <a href="README-EN.md">Inglês</a>
-      </strong>
-    </td>
-  </tr>
-</table>
+I'm currently building [h3/use](https://h3-use.com) to help people with custom hooks when building applications and contributing to open-source projects like [MagicUI](https://magicui.design) and [RetroUI](https://www.retroui.dev/).
 
-Olá, me chamo Isaac e sou engenheiro de software e especialista front-end.
+Previously:
 
-- 🗺️ Nasci e moro no Rio Grande do Sul, Brasil
-- ✉️ Você pode entrar em contato comigo pelo email [isaachermel@gmail.com](isaachermel@gmail.com)
-- 💼 Você pode interagir comigo no [meu LinkedIn](https://www.linkedin.com/in/isaachermel/)
-- 💼 Estou aberto a freelances e contratos PJ
-- 🤝 Estou aberto a colaborar em projetos
+- Software Engineer @ Zenvia Latam
+- Front-end Developer @ Catency
+- Full-Stack Developer @ Umbler
 
-## 🪛 Habilidades e Conhecimentos
+I'm in last year of my Associate Degree's @ Descomplica Faculdade Digital
 
-TypeScript, Next.js, Nest.js, Python, Flask, Vue.js, TailwindCSS, SCSS, Docker, Kubernetes, Kafka, TDD, BDD, Clean Code, Clean Architecture, SOLID, SQL, MongoDB, Webpack, Jest, Documentações Técnicas e Pesquisas Técnicas.
+I'm currently building a SaaS for the education segment.
 
-Escuta Ativa, Visão análitica, Empatia e Resiliência. Experiência em times ágeis que seguiam metodologias Scrum e Kanban.
-
-Experiência e conhecimento em diversos tipos de segmento: Sucesso do Cliente, Fluxos E[T]L, Otimização SEO, Usabilidade, Acessibilidade, E-commerces, Landing Pages, Sites Institucionais e APIs REST.
-
-## 💼 Empresas, marcas e projetos em que trabalhei
-
-Umbler, WEBGRU, Catency, SenseData, Zenvia, Galen Academy, BCRI, MD Health, NetMD, Oncologia Brasil, FatBurners AT, MagicUI e K2L.
+Links: [Portfolio](https://isaachermel.dev.br) - [X/Twitter](https://x.com/isaach3rmel) - [LinkedIn](https://linkedin.com/in/isaachermel)
