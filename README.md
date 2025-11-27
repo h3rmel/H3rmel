@@ -1,13 +1,28 @@
-## Hi, I'm Isaac Hermel Reginato 👋
+# Hi, I'm Isaac Hermel
 
-I'm currently building [guarahooks](https://guarahooks.com) to help people with custom hooks when building applications and contributing to open-source projects like [MagicUI](https://magicui.design), [RetroUI](https://www.retroui.dev/). I'm also building a SaaS for the education segment.
+**Software Engineer | Product Engineering & Frontend Architecture**
 
-Previously:
+Specializing at the intersection of Design Systems and scalable software architecture. Focused on building high-fidelity SaaS products and developer tools (DX) within the TypeScript ecosystem.
 
-- Software Engineer @ Zenvia Latam
-- Front-end Developer @ Catency
-- Full-Stack Developer @ Umbler
+Engineering background at **Zenvia**, **Catency**, and **Umbler**.
 
-I'm in last year of my Associate Degree's @ Descomplica Faculdade Digital
+### Tech Stack
 
-Links: [Portfolio](https://isaachermel.dev.br) - [X/Twitter](https://x.com/isaach3rmel) - [LinkedIn](https://linkedin.com/in/isaachermel)
+- **Core:** TypeScript, Node.js, React, Next.js.
+- **Styling & UI:** TailwindCSS, Framer Motion, Radix UI, Shadcn/ui.
+- **Backend & Infra:** PostgreSQL, Prisma ORM, Serverless, Docker.
+- **Architecture:** Monorepos (Turbo), CI/CD Pipelines, Micro-frontends.
+
+### Selected Work & Open Source
+
+**[Guarahooks](https://github.com/h3rmel/guarahooks)**
+*Creator & Maintainer*
+React hooks library focused on performance and strict type safety. Engineered to reduce boilerplate and standardize behavior in large-scale applications.
+
+**[MagicUI](https://magicui.design/)**
+*Contributor*
+High-performance UI library for design engineers. Contributed to the implementation of complex visual components and rendering optimizations.
+
+### Contact
+
+[LinkedIn](https://www.linkedin.com/in/isaachermel/) - [Email](mailto:your-email@domain.com) - [Portfolio](https://isaachermel.dev.br/)
