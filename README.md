@@ -1,37 +1,40 @@
-# Isaac Hermel
-### Senior Software Engineer | Distributed Systems & Product Engineering
+# Isaac Hermel Reginato
+### Software Engineer | React Architecture & Performance Optimization | System Design | SSR/SSG | Node.js & TypeScript
 
-Engineer focused on **High-Throughput Architectures** and **Scalable Frontend Systems**.  
-Currently designing data ingestion pipelines processing **~59,000 records/minute** and optimizing Data Intensive Applications.
+Engineer focused on building scalable architectures and optimizing performance within the JavaScript/TypeScript ecosystem. Coexistence of high-throughput data ingestion pipelines (~59,000 records/minute) and front-end rendering bottleneck resolution.
 
-### 🏗️ Engineering Context & Architecture
-
-I don't just use tools; I solve concurrency, latency, and scalability problems.
+### Engineering Context & Architecture
 
 | Domain | Core Stack | Engineering Focus |
 | :--- | :--- | :--- |
-| **Distributed Systems** | ![NodeJS](https://img.shields.io/badge/-Node.js-333?style=flat&logo=node.js) ![Kafka](https://img.shields.io/badge/-Apache%20Kafka-333?style=flat&logo=apachekafka) ![Redis](https://img.shields.io/badge/-Redis-333?style=flat&logo=redis) | Asynchronous messaging, Event-Driven Architecture, Caching Strategies (TTL/Eviction), and Rate Limiting. |
-| **Frontend Architecture** | ![NextJS](https://img.shields.io/badge/-Next.js-000?style=flat&logo=next.js) ![TS](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat&logo=tailwind-css) | Micro-frontends, Design Systems, Server-Side Rendering (SSR) optimization, and strict Type Safety. |
-| **Quality & DevOps** | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker) ![Vitest](https://img.shields.io/badge/-Vitest-729B1B?style=flat&logo=vitest) ![CI/CD](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat&logo=github-actions) | TDD/BDD workflows, Containerization, and Automated Pipelines for regression testing. |
+| **Frontend Architecture** | Next.js, React.js, Vue | SSR/SSG optimization, MVVM/MVC patterns, Core Web Vitals (LCP < 2.5s), CLS mitigation, and Shift-Left Testing. |
+| **Backend & Distributed Systems** | Node.js, NestJS, Python, .NET | Hexagonal Architecture, Asynchronous messaging (Kafka), Relational/NoSQL modeling, and Event Loop Optimization. |
+| **Quality & DevOps** | Docker, Kubernetes, ArgoCD | GitOps, TDD/BDD workflows, CI/CD pipelines, and zero-regression deployment models. |
 
-### 🚀 Proof of Work (Selected Projects)
+### Proof of Work
 
 #### [enterprise-react-architecture](https://github.com/h3rmel/enterprise-react-architecture)
-> **Role:** Architect & Maintainer
-> A reference implementation for mission-critical React applications.
-> * **Problem:** Lack of standardization in testing strategies for complex UIs.
-> * **Solution:** Implemented a **Shift-Left Testing** approach using Vitest and React Testing Library, enforcing TDD/BDD patterns to ensure zero-regression deployments.
+**Role:** Architect & Maintainer
+Reference implementation for mission-critical React applications.
+* **Architecture:** Shift-Left Testing approach using TypeScript, Vitest, and React Testing Library.
+* **Impact:** Enforced TDD/BDD methodologies for validating complex UI domains, establishing a predictable model for engineering teams.
 
 #### [guarahooks](https://github.com/h3rmel/guarahooks)
-> **Role:** Creator
->
-> Headless logic library for React performance.
-> * **Engineering:** Encapsulated complex state logic into type-safe hooks, reducing boilerplate and preventing unnecessary re-renders via advanced memoization patterns.
+**Role:** Core Engineer
+Open-source platform containing 50 React hooks.
+* **Architecture:** Documentation ecosystem integrated with content-collections and distribution architecture via shadcn.
+* **Impact:** Scalable infrastructure for package integration serving ~100 active users.
 
-### 💼 Professional Impact
+#### [MagicUI](https://github.com/h3rmel/magicui)
+**Role:** Contributor
+Open-source visual components library.
+* **Architecture:** Implemented Lazy Loading and render control via memoization hooks (useMemo, useCallback).
+* **Impact:** Reduced computational cost (~5KB less in bundle) and optimized component lifecycle performance.
 
-* **High-Volume ETL (Zenvia):** Maintaining ingestion pipelines handling **59k+ records/min** peak throughput across APIs and Airflow. Ensured data consistency for 5 distinct ERP integrations.
-* **Operational Efficiency (Umbler):** Architected an Internal Developer Platform (IDP) that reduced new engineer onboarding time by **50%**.
+### Professional Impact
 
-![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-![Portfolio](https://img.shields.io/badge/View_Portfolio-100000?style=for-the-badge&logo=vercel&logoColor=white)
+* **Zenvia:** Maintained ETL ingestion pipelines handling 59k+ records/min peak throughput. Executed structural refactoring of front-end using React.js and MVVM, achieving a 20% rendering performance gain and 200ms reduction in TTL.
+* **Catency:** Engineered high-conversion B2B web interfaces using Next.js. Applied hybrid rendering (SSG/SSR) to deliver 5 platforms with consistent LCP < 2.5s and absolute responsiveness.
+* **Umbler:** Developed end-to-end internal tools using .NET, Blazor, and MVC architecture, automating customer base management for 100,000+ clients.
+
+[LinkedIn](https://linkedin.com/in/isaachermel) | [Portfolio](https://isaachermel.dev.br)
