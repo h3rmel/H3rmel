@@ -31,7 +31,7 @@ Open-source platform containing 50 React hooks.
 * **Architecture:** Documentation ecosystem integrated with content-collections and distribution architecture via shadcn.
 * **Impact:** Scalable infrastructure for package integration serving ~100 active users.
 
-#### [MagicUI]([https://github.com/h3rmel/magicui](https://github.com/magicuidesign/magicui))
+#### [MagicUI](https://github.com/magicuidesign/magicui)
 **Role:** Contributor
 Open-source visual components library.
 * **Architecture:** Implemented Lazy Loading and render control via memoization hooks (useMemo, useCallback).
