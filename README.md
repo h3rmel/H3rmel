@@ -13,6 +13,12 @@ Engineer focused on building scalable architectures and optimizing performance w
 
 ### Proof of Work
 
+#### [distributed-systems-lab](https://github.com/h3rmel/distributed-systems-lab)
+**Role:** Architect & Full-Stack Engineer
+Production-grade monorepo demonstrating enterprise patterns for high-throughput ingestion and memory-safe streaming.
+* **Architecture:** Engineered a high-performance full-stack ecosystem featuring a scalable webhook ingestion API (NestJS/Fastify, BullMQ), a memory-safe data streaming pipeline, and a real-time analytics dashboard (Next.js 16, Socket.io, Zustand).
+* **Impact:** Achieved extreme resource optimization, processing 5 million records using only 57MB of RAM via Node.js Streams and Postgres COPY. Maintained 60 FPS front-end rendering under high-frequency WebSocket events, while the back-end sustained a 0% error rate and 7.35ms P95 latency under a 500 concurrent user load.
+
 #### [enterprise-react-architecture](https://github.com/h3rmel/enterprise-react-architecture)
 **Role:** Architect & Maintainer
 Reference implementation for mission-critical React applications.
